@@ -5,17 +5,18 @@ from selenium.webdriver import Chrome
 from . import constants as c
 
 from selenium.webdriver.common.by import By
+import json
 
 
 @dataclass
-class Contact:
+class Contact(object):
     name: str = None
     occupation: str = None
     url: str = None
 
 
 @dataclass
-class Institution:
+class Institution(object):
     institution_name: str = None
     website: str = None
     industry: str = None
@@ -23,6 +24,10 @@ class Institution:
     headquarters: str = None
     company_size: int = None
     founded: int = None
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__,
+                          sort_keys=True, indent=4)
 
 
 @dataclass
@@ -33,6 +38,11 @@ class Experience(Institution):
     position_title: str = None
     duration: str = None
     location: str = None
+    times: str = None
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__,
+                          sort_keys=True, indent=4)
 
 
 @dataclass
@@ -41,6 +51,13 @@ class Education(Institution):
     to_date: str = None
     description: str = None
     degree: str = None
+    field_of_study: str = None
+    grade: str = None
+    activities: str = None
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__,
+                          sort_keys=True, indent=4)
 
 
 @dataclass
@@ -55,12 +72,18 @@ class Accomplishment(Institution):
 
 
 @dataclass
+class Skill(object):
+    name: str = None
+    tag: str = None
+
+
+@dataclass
 class Scraper:
     driver: Chrome = None
 
     def is_signed_in(self):
         try:
-            self.driver.find_element(By.ID,c.VERIFY_LOGIN_ID)
+            self.driver.find_element(By.ID, c.VERIFY_LOGIN_ID)
             return True
         except:
             pass
@@ -76,7 +99,7 @@ class Scraper:
 
     def __find_element_by_xpath__(self, tag_name):
         try:
-            self.driver.find_element(By.XPATH,tag_name)
+            self.driver.find_element(By.XPATH, tag_name)
             return True
         except:
             pass
@@ -84,7 +107,7 @@ class Scraper:
 
     def __find_enabled_element_by_xpath__(self, tag_name):
         try:
-            elem = self.driver.find_element(By.XPATH,tag_name)
+            elem = self.driver.find_element(By.XPATH, tag_name)
             return elem.is_enabled()
         except:
             pass

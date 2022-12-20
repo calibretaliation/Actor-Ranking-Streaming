@@ -1,0 +1,83 @@
+{
+    "name": "Nguyen Giang",
+    "linkedin_url": "https://www.linkedin.com/in/nguyen-giang-6b08b096",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "Smart Train",
+            "website": "https://www.linkedin.com/company/2679941/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Apr 2013",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Smart Train",
+            "duration": "9 yrs 9 mos",
+            "location": "Ha Noi",
+            "times": null
+        },
+        {
+            "institution_name": "Sacombank",
+            "website": "https://www.linkedin.com/company/1028553/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jun 2012",
+            "to_date": "Mar 2013",
+            "description": null,
+            "position_title": "Senior credit card sales",
+            "duration": "10 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "Thai Nguyen University of emconomics and business administration",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Thai+Nguyen+University+of+emconomics+and+business+administration",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2008",
+            "to_date": "2012",
+            "description": null,
+            "degree": null,
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Talent Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Performance Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "HR Consulting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Employee Relations",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Recruiting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        }
+    ]
+}

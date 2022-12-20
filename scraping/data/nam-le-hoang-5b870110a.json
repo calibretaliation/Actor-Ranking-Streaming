@@ -1,0 +1,77 @@
+{
+    "name": "Nam Le Hoang",
+    "linkedin_url": "https://www.linkedin.com/in/nam-le-hoang-5b870110a",
+    "about": [
+        "Manage teams to carry out quality financial audit services to large MNCs in a diversified portfolio of industries, including Financial Services, Manufacturing, Retails & Trading and Real Estate Development, especially the energy sector, in accordance with the local and international accounting and reporting frameworks: Vietnamese Accounting Standards (VAS) and International Financial Reporting Standards (IFRS)"
+    ],
+    "experiences": [
+        {
+            "institution_name": "PwC",
+            "website": "https://www.linkedin.com/company/1044/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Aug 2015",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Senior Associate",
+            "duration": "7 yrs 5 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "UEL - University of Economics and Law",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=UEL+-+University+of+Economics+and+Law",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2011",
+            "to_date": "2015",
+            "description": null,
+            "degree": "Bachelor's degree",
+            "field_of_study": "Accounting and Auditing",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Accounting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Financial Analysis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Financial Reporting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Auditing",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Financial Accounting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Internal Controls",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Microsoft Excel",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        }
+    ]
+}

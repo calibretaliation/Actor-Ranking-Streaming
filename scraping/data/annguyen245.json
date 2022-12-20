@@ -1,0 +1,107 @@
+{
+    "name": "An Nguyen",
+    "linkedin_url": "https://www.linkedin.com/in/annguyen245",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "A8 Resource Co., Ltd.",
+            "website": "https://www.linkedin.com/company/2040833/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jan 2019",
+            "to_date": "Apr 2019",
+            "description": null,
+            "position_title": "Recruitment Intern",
+            "duration": "4 mos",
+            "location": "Ho Chi Minh, Vietnam",
+            "times": null
+        },
+        {
+            "institution_name": "YOLA",
+            "website": "https://www.linkedin.com/company/1637036/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jun 2018",
+            "to_date": "Oct 2018",
+            "description": null,
+            "position_title": "Education Assistant",
+            "duration": "5 mos",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "ILA Vietnam",
+            "website": "https://www.linkedin.com/company/1652414/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "May 2017",
+            "to_date": "Aug 2017",
+            "description": null,
+            "position_title": "Teaching Assistant",
+            "duration": "4 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "University Of Economics Ho Chi Minh City",
+            "website": "https://www.linkedin.com/company/13739721/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2015",
+            "to_date": "2019",
+            "description": null,
+            "degree": "Undergraduate",
+            "field_of_study": "Business English",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Research",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Microsoft Office",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Management",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Teamwork",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Problem Solving",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "English",
+            "tag": "LANGUAGES"
+        },
+        {
+            "name": "Korean",
+            "tag": "LANGUAGES"
+        }
+    ]
+}
