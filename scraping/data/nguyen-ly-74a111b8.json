@@ -1,0 +1,147 @@
+{
+    "name": "Nguyen Ly",
+    "linkedin_url": "https://www.linkedin.com/in/nguyen-ly-74a111b8",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "ACACY Ltd",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=ACACY+Ltd",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Apr 2020",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Recruitment Manager",
+            "duration": "2 yrs 9 mos",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "ACACY Ltd",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=ACACY+Ltd",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Apr 2019",
+            "to_date": "Apr 2020",
+            "description": null,
+            "position_title": "Assistant Recruitment Manager",
+            "duration": "1 yr 1 mo",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "ACACY Ltd",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=ACACY+Ltd",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Sep 2017",
+            "to_date": "Mar 2019",
+            "description": null,
+            "position_title": "Recruitment Supervisor",
+            "duration": "1 yr 7 mos",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "ACACY Ltd",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=ACACY+Ltd",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Sep 2016",
+            "to_date": "Aug 2017",
+            "description": null,
+            "position_title": "Recruitment Executive",
+            "duration": "1 yr",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "DatVietVAC Group Holdings",
+            "website": "https://www.linkedin.com/company/884065/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jun 2015",
+            "to_date": "May 2016",
+            "description": null,
+            "position_title": "Administrator",
+            "duration": "1 yr",
+            "location": "200 Pasteur Street, District 3, HCMC",
+            "times": null
+        },
+        {
+            "institution_name": "Le & Associates",
+            "website": "https://www.linkedin.com/company/648407/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Aug 2014",
+            "to_date": "Mar 2015",
+            "description": null,
+            "position_title": "HR Intern",
+            "duration": "8 mos",
+            "location": "2nd Floor, 140 Nguyen Van Thu Street, Da Kao Ward, District 1, Ho Chi Minh City",
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "Sai Gon University",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Sai+Gon+University",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2011",
+            "to_date": "2015",
+            "description": null,
+            "degree": "Bachelor’s Degree",
+            "field_of_study": "Business Administration and Management, General",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Technical Recruiting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "HR Consulting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Personnel Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Internet Recruiting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Performance Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        }
+    ]
+}

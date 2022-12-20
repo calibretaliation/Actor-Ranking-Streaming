@@ -1,0 +1,111 @@
+{
+    "name": "Huong Le",
+    "linkedin_url": "https://www.linkedin.com/in/huong-le-a83a00148",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "TFL CO.,LTD",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=TFL+CO%2E%2CLTD",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2018",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "HR Specialist",
+            "duration": "5 yrs",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "TFL Corporation",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=TFL+Corporation",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Apr 2017",
+            "to_date": "Nov 2017",
+            "description": null,
+            "position_title": "Human Resources",
+            "duration": "8 mos",
+            "location": "Vietnam",
+            "times": null
+        },
+        {
+            "institution_name": "The Center for Supporting Community Development Initiatives (SCDI)",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=+The+Center+for+Supporting+Community+Development+Initiatives+%28SCDI%29",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Mar 2015",
+            "to_date": "Jul 2015",
+            "description": null,
+            "position_title": "Freelancer",
+            "duration": "5 mos",
+            "location": "Vietnam",
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "University of Social Sciences and Humanities - Vietnam National University Ho Chi Minh City",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=University+of+Social+Sciences+and+Humanities+-+Vietnam+National+University+Ho+Chi+Minh+City",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2013",
+            "to_date": "2017",
+            "description": null,
+            "degree": "Bachelor of Arts - BA",
+            "field_of_study": "Sociology",
+            "grade": null,
+            "activities": null
+        },
+        {
+            "institution_name": "Le Khiet Gifted High School",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Le+Khiet+Gifted+High+School",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2010",
+            "to_date": "2013",
+            "description": null,
+            "degree": "Major in English",
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Human Resources",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Communication",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Conflict Resolution",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Decision-Making",
+            "tag": "INTERPERSONAL-SKILLS"
+        }
+    ]
+}
