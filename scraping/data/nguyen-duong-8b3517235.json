@@ -1,0 +1,73 @@
+{
+    "name": "Nguyen Duong",
+    "linkedin_url": "https://www.linkedin.com/in/nguyen-duong-8b3517235",
+    "about": [
+        "hi, I am Nguyen Duong From Talentvis Vietnam"
+    ],
+    "experiences": [
+        {
+            "institution_name": "Talentvis",
+            "website": "https://www.linkedin.com/company/2235417/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2020",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Professional Recruiter",
+            "duration": "3 yrs",
+            "location": null,
+            "times": "Full-time"
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "University Of Economics Ho Chi Minh City",
+            "website": "https://www.linkedin.com/company/13739721/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2017",
+            "to_date": "2021",
+            "description": null,
+            "degree": "Bachelor of Business Administration - BBA",
+            "field_of_study": "Business Administration and Management, General",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Customer Experience",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Networking",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Workforce Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Service Levels",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Customer Experience Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Writing",
+            "tag": "INTERPERSONAL-SKILLS"
+        }
+    ]
+}

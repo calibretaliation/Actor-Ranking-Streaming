@@ -1,0 +1,55 @@
+{
+    "name": "Truc Anh Nguyen",
+    "linkedin_url": "https://www.linkedin.com/in/truc-anh-nguyen-025a50146",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "PwC",
+            "website": "https://www.linkedin.com/company/1044/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Sep 2015",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Senior Associate",
+            "duration": "7 yrs 4 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "RMIT University Vietnam",
+            "website": "https://www.linkedin.com/company/220653/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": null,
+            "to_date": null,
+            "description": null,
+            "degree": "Bachelor's degree",
+            "field_of_study": "Economics and finance",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Business Analytics",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Financial Analysis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        }
+    ]
+}

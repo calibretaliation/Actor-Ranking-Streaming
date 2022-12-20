@@ -1,0 +1,165 @@
+{
+    "name": "Han (Jerika) Nguyen",
+    "linkedin_url": "https://www.linkedin.com/in/ntnhan181",
+    "about": [
+        "A highly skilled, competent, and diligent individual is seeking an opportunity to establish a career as a Data Analyst. Certified with Diploma from Claude Bernard University Lyon 1. Strong willingness to exhibit my proficiency in PYTHON, SQL, BI tools, Statistics and Computing Methodologies in the professional environment."
+    ],
+    "experiences": [
+        {
+            "institution_name": "MoMo (M_Service)",
+            "website": "https://www.linkedin.com/company/13688376/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Aug 2022",
+            "to_date": "Present",
+            "description": "Skills: Google BigQuery · Google Data Studio · Google Sheets · Data Analytics · Python (Programming Language)\nGoogle BigQuery · Google Data Studio · Google Sheets · Data Analytics · Python (Programming Language)",
+            "position_title": "Junior Data Analyst",
+            "duration": "5 mos",
+            "location": "Ho Chi Minh City, Vietnam",
+            "times": "Full-time"
+        },
+        {
+            "institution_name": "DXC Technology",
+            "website": "https://www.linkedin.com/company/16198010/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jan 2022",
+            "to_date": "Jun 2022",
+            "description": "• Supervised to ensure adherence proper work procedure.\n• Extract and mapping metrics according to clients’ needs using SQL.\n• Generated ad hoc and standard reports using Sisense for clients.\n• Developed database objects, including tables and views using SQL.\n• Reporting to clients and team members regarding project progress and outcomes.\n• Supervised to ensure adherence proper work procedure. • Extract and mapping metrics according to clients’ needs using SQL. • Generated ad hoc and standard reports using Sisense for clients. • Developed database objects, including tables and views using SQL. • Reporting to clients and team members regarding project progress and outcomes.\nSkills: Life Insurance · Sisense · Data Cleaning · Information Extraction · Business Analysis · SQL\nLife Insurance · Sisense · Data Cleaning · Information Extraction · Business Analysis · SQL",
+            "position_title": "Data Analyst",
+            "duration": "6 mos",
+            "location": "Ho Chi Minh City, Vietnam",
+            "times": "Internship"
+        },
+        {
+            "institution_name": "Softline Group",
+            "website": "https://www.linkedin.com/company/267944/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jun 2020",
+            "to_date": "Dec 2020",
+            "description": "• Determine operational objectives by studying business functions; gathering information; evaluating output requirements and formats\n• Developed reporting and alert requirements.\n• Assisted with the design, documentation, and maintenance of system processes.\n• Communicated key insights and findings to product team.\n• Determine operational objectives by studying business functions; gathering information; evaluating output requirements and formats • Developed reporting and alert requirements. • Assisted with the design, documentation, and maintenance of system processes. • Communicated key insights and findings to product team.\nSkills: Requirements Analysis · Business Analysis · SQL · English\nRequirements Analysis · Business Analysis · SQL · English",
+            "position_title": "Business Analyst",
+            "duration": "7 mos",
+            "location": "Ho Chi Minh City, Vietnam",
+            "times": "Full-time"
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "Université Claude Bernard Lyon 1",
+            "website": "https://www.linkedin.com/company/963638/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Sep 2018",
+            "to_date": "Jun 2022",
+            "description": null,
+            "degree": "Bachelor of Engineering - BE",
+            "field_of_study": "Information Technology",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Google Sheets",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Data Analytics",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Life Insurance",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Data Cleaning",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Information Extraction",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Requirements Analysis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Business Analysis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Matplotlib",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Exploratory Data Analysis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Data Analysis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Career Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Data Science",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Google BigQuery",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Google Data Studio",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Sisense",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Microsoft Power BI",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Pandas",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "SQL",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Python (Programming Language)",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "French",
+            "tag": "LANGUAGES"
+        },
+        {
+            "name": "English",
+            "tag": "LANGUAGES"
+        }
+    ]
+}

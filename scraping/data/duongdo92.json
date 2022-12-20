@@ -1,0 +1,175 @@
+{
+    "name": "Dương Đỗ",
+    "linkedin_url": "https://www.linkedin.com/in/duongdo92",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "WorldQuant",
+            "website": "https://www.linkedin.com/company/276383/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jan 2021",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Senior Software Engineer",
+            "duration": "2 yrs",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "WorldQuant",
+            "website": "https://www.linkedin.com/company/276383/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jul 2019",
+            "to_date": "Jan 2021",
+            "description": "• Build from scratch an OKR system for researchers. Technology/library: Python/Django, TypeScript/ReactJS.\n• Develop new features for alpha and strategy management systems. Technology/library: Perl, ReactJS.\n• Build from scratch an OKR system for researchers. Technology/library: Python/Django, TypeScript/ReactJS. • Develop new features for alpha and strategy management systems. Technology/library: Perl, ReactJS.",
+            "position_title": "Full Stack Engineer",
+            "duration": "1 yr 7 mos",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "PIXTA Vietnam Co. Ltd.",
+            "website": "https://www.linkedin.com/company/13329447/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jan 2018",
+            "to_date": "Jun 2019",
+            "description": "• Developed and maintained a global e-commerce website for the photo stock market \n• Improved search results with Elastic and Cloud search.\n• Enhanced customer experience by providing OAuth2 based authentication.\n• Technology: Ruby on Rails, ReactJS.\n• Developed and maintained a global e-commerce website for the photo stock market • Improved search results with Elastic and Cloud search. • Enhanced customer experience by providing OAuth2 based authentication. • Technology: Ruby on Rails, ReactJS.",
+            "position_title": "Web Developer",
+            "duration": "1 yr 6 mos",
+            "location": null,
+            "times": "Full-time"
+        },
+        {
+            "institution_name": "Lenderrate.com",
+            "website": "https://www.linkedin.com/company/7789906/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jul 2017",
+            "to_date": "Dec 2017",
+            "description": "• Built and deployed highly scalable, multi-tenancy web application for mortgage brokers.\n• Maintained software system by writing highly maintainable code and unit tests to resolve new technical issues.\n• Technology: Java/GWT\n• Built and deployed highly scalable, multi-tenancy web application for mortgage brokers. • Maintained software system by writing highly maintainable code and unit tests to resolve new technical issues. • Technology: Java/GWT",
+            "position_title": "Software Developer",
+            "duration": "6 mos",
+            "location": null,
+            "times": "Full-time"
+        },
+        {
+            "institution_name": "Micron Technology",
+            "website": "https://www.linkedin.com/company/3690/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jul 2014",
+            "to_date": "Jul 2016",
+            "description": null,
+            "position_title": "Design Engineer",
+            "duration": "2 yrs 1 mo",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "Nanyang Technological University Singapore",
+            "website": "https://www.linkedin.com/company/165091/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2010",
+            "to_date": "2014",
+            "description": null,
+            "degree": "Bachelor's degree",
+            "field_of_study": "Materials Engineering",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Internet Product Development",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Redis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Ruby on Rails",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Python (Programming Language)",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Amazon Web Services (AWS)",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Ruby",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Java",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "JavaScript",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "jQuery",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "NoSQL",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "MySQL",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Bootstrap",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "AutoCAD",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "React.js",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Redux",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Django",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        }
+    ]
+}

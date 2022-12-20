@@ -1,0 +1,73 @@
+{
+    "name": "nguyen thinh",
+    "linkedin_url": "https://www.linkedin.com/in/dungthinh225",
+    "about": [
+        "java, php, wordpress, seo"
+    ],
+    "experiences": [
+        {
+            "institution_name": "Infosys",
+            "website": "https://www.linkedin.com/company/1283/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jun 2013",
+            "to_date": "Present",
+            "description": "Cây Trầu Bà Leo\nCây Trầu Bà Leo\nCây Trầu Bà Leo\nCây Trầu Bà Leo\nCây Cảnh - Công Ty Cây Cảnh - Cây Cảnh Nhiên Nhàn\nCây cảnh nhiên nhàn là đơn vị có nhiều năm kinh nghiệm sản xuất,chăm sóc cây cảnh, thiết kế cảnh quan.Chúng tôi luôn đặt uy tín và chất lượng lên hàng đầu. Liên hệ để được tư vấn miễn phí",
+            "position_title": "IT Manager",
+            "duration": "9 yrs 7 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "aprotrain aptech",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=aprotrain+aptech",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": null,
+            "to_date": null,
+            "description": null,
+            "degree": null,
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Project Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Business Analysis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "SQL",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Microsoft SQL Server",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Java",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "HTML",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        }
+    ]
+}

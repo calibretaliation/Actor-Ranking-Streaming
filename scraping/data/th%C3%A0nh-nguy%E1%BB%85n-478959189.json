@@ -1,0 +1,73 @@
+{
+    "name": "Thành Nguyễn",
+    "linkedin_url": "https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-478959189",
+    "about": [
+        "Thành nguyễn chuyên thiết kế website chuyên nghiệp cho doanh nghiệp, phù hợp với mọi ngành nghề , có trên 1000 website mẫu cho khách hàng lựa chọn, chuẩn seo google. \nwebsite : https://thietkewebs.com.vn/"
+    ],
+    "experiences": [
+        {
+            "institution_name": "Tinthanh",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Tinthanh",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Feb 1985",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "IT Manager",
+            "duration": "37 yrs 11 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "University of Information Technology",
+            "website": "https://www.linkedin.com/company/15135546/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2004",
+            "to_date": "2008",
+            "description": null,
+            "degree": "Đại học",
+            "field_of_study": "IT",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "IT Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Information Technology",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Disaster Recovery",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "IT Operations",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "IT Service Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Active Directory",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        }
+    ]
+}

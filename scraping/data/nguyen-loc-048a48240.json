@@ -1,0 +1,73 @@
+{
+    "name": "Nguyen (Huu) Loc",
+    "linkedin_url": "https://www.linkedin.com/in/nguyen-loc-048a48240",
+    "about": [
+        "."
+    ],
+    "experiences": [
+        {
+            "institution_name": "ManpowerGroup",
+            "website": "https://www.linkedin.com/company/1799/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Sep 2022",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Recruitment Executive",
+            "duration": "4 mos",
+            "location": "Vietnam",
+            "times": "Full-time"
+        },
+        {
+            "institution_name": "Pharmacity",
+            "website": "https://www.linkedin.com/company/2625656/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Dec 2021",
+            "to_date": "Jun 2022",
+            "description": null,
+            "position_title": "Human Resources",
+            "duration": "7 mos",
+            "location": null,
+            "times": "Full-time"
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "HUFLIT",
+            "website": "https://www.linkedin.com/company/77712942/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": null,
+            "to_date": null,
+            "description": null,
+            "degree": "English Language and Literature/Letters",
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Human Resources (HR)",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Recruiting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        }
+    ]
+}

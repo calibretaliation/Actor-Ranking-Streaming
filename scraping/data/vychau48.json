@@ -1,0 +1,111 @@
+{
+    "name": "Vy Châu",
+    "linkedin_url": "https://www.linkedin.com/in/vychau48",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "RSM Vietnam",
+            "website": "https://www.linkedin.com/company/13463509/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Oct 2021",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Consultant",
+            "duration": "1 yr 3 mos",
+            "location": null,
+            "times": "Full-time"
+        },
+        {
+            "institution_name": "RSM Vietnam",
+            "website": "https://www.linkedin.com/company/13463509/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jul 2019",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Consulting Assistant",
+            "duration": "3 yrs 6 mos",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "RSM Vietnam",
+            "website": "https://www.linkedin.com/company/13463509/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Dec 2018",
+            "to_date": "Mar 2019",
+            "description": null,
+            "position_title": "Intern",
+            "duration": "4 mos",
+            "location": "Vietnam",
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "Banking University of Ho Chi Minh City",
+            "website": "https://www.linkedin.com/company/14538161/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2015",
+            "to_date": "2019",
+            "description": "Short-term exchange student in Malaysia for 2 week\n\nTook participant in Administrative course of East West College in Seremban, Malaysia",
+            "degree": "Bachelor's degree",
+            "field_of_study": "Accounting and Auditing",
+            "grade": "Good",
+            "activities": "Short-term Exchange Student"
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Accounting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Financial Analysis",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Presentation Skills",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Time Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Microsoft Office",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Teamwork",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Communication",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Public Speaking",
+            "tag": "INTERPERSONAL-SKILLS"
+        }
+    ]
+}

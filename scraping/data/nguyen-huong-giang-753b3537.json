@@ -1,0 +1,151 @@
+{
+    "name": "Nguyen Huong Giang",
+    "linkedin_url": "https://www.linkedin.com/in/nguyen-huong-giang-753b3537",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "NA",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=NA",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Oct 2017",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "NA",
+            "duration": "5 yrs 3 mos",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "New Viet Dairy",
+            "website": "https://www.linkedin.com/company/500371/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Dec 2008",
+            "to_date": "Sep 2017",
+            "description": null,
+            "position_title": "HR Director",
+            "duration": "8 yrs 10 mos",
+            "location": "HCMC",
+            "times": null
+        },
+        {
+            "institution_name": "JAPFA COMFEED LONG AN",
+            "website": "https://www.linkedin.com/company/1621681/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jun 2006",
+            "to_date": "Oct 2008",
+            "description": null,
+            "position_title": "HR Manager",
+            "duration": "2 yrs 5 mos",
+            "location": "Long An",
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "HCM OU",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=HCM+OU",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "1992",
+            "to_date": "1996",
+            "description": null,
+            "degree": "Bachelor of Business Administration - BBA",
+            "field_of_study": "Business Administration and Management, General",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Employee Relations",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Human Resources",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Talent Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Performance Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Sourcing",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Personnel Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "HR Consulting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Talent Acquisition",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "HR Policies",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Sales Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Succession Planning",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Employee Engagement",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Budgets",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Recruiting",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Team Leadership",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Negotiation",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Management",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Teamwork",
+            "tag": "INTERPERSONAL-SKILLS"
+        }
+    ]
+}

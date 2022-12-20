@@ -1,0 +1,57 @@
+{
+    "name": "Tuấn Quốc Lê",
+    "linkedin_url": "https://www.linkedin.com/in/tuanleii",
+    "about": [
+        "Hard-working, passionate, eager to learn new things and works well in teams. Specializing in Investment Economics and having learned about tools such as SQL, Python, Power BI in order to standardize, analyze, and visualize data. My career goal is to work in the data area who is involved in addressing business issues by making data-driven decisions."
+    ],
+    "experiences": [
+        {
+            "institution_name": "ILA Vietnam",
+            "website": "https://www.linkedin.com/company/1652414/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Dec 2020",
+            "to_date": "Nov 2021",
+            "description": "• Manage, support, tutor students.\n• Assist expat teachers in class operation.\n• Conduct parents calling to update student's progress.\n• Update and maintain students' data on dashboard.\n• Manage, support, tutor students. • Assist expat teachers in class operation. • Conduct parents calling to update student's progress. • Update and maintain students' data on dashboard.",
+            "position_title": "Teaching Assistant",
+            "duration": "1 yr",
+            "location": "Vietnam",
+            "times": "Part-time"
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "University Of Economics Ho Chi Minh City",
+            "website": "https://www.linkedin.com/company/13739721/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Sep 2019",
+            "to_date": "Mar 2023",
+            "description": "• GPA: 3.66/4.0.\n• Specialize in investment economics.",
+            "degree": "Bachelor's degree",
+            "field_of_study": "Economics",
+            "grade": "Good",
+            "activities": "Class Monitor"
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Economics",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Data Analytics",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Duyen Nguyen",
+    "linkedin_url": "https://www.linkedin.com/in/duyen-nguyen-41b372122",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "BCC Human Resources Corporation",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=BCC+Human+Resources+Corporation",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Feb 2017",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Project Coordinator",
+            "duration": "5 yrs 11 mos",
+            "location": "Vietnam",
+            "times": null
+        },
+        {
+            "institution_name": "BCC Corp",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=BCC+Corp",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Mar 2015",
+            "to_date": "Jan 2017",
+            "description": null,
+            "position_title": "Training Consultant",
+            "duration": "1 yr 11 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "INDUSTRIAL UNIVERSITY OF HO CHI MINH CITY",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=INDUSTRIAL+UNIVERSITY+OF+HO+CHI+MINH+CITY",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2014",
+            "to_date": null,
+            "description": null,
+            "degree": "Bachelor’s Degree",
+            "field_of_study": "Business Administration and Management, General",
+            "grade": null,
+            "activities": null
+        },
+        {
+            "institution_name": "University Of Economics Ho Chi Minh City",
+            "website": "https://www.linkedin.com/company/13739721/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": null,
+            "to_date": null,
+            "description": null,
+            "degree": "Bachelor’s degree",
+            "field_of_study": "Accounting and Finance",
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Project Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Microsoft Office",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Management",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Leadership",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Public Speaking",
+            "tag": "INTERPERSONAL-SKILLS"
+        }
+    ]
+}

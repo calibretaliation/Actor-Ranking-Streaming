@@ -1,0 +1,62 @@
+{
+    "name": "Nhi Nguyen",
+    "linkedin_url": "https://www.linkedin.com/in/nhi-nguyen-297604210",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "Freelance",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Freelance",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Apr 2021",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Recruitment Consultant",
+            "duration": "1 yr 9 mos",
+            "location": null,
+            "times": null
+        },
+        {
+            "institution_name": "Lan Anh Preshool",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Lan+Anh+Preshool",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Apr 2018",
+            "to_date": "Apr 2021",
+            "description": null,
+            "position_title": "Preschool Teacher",
+            "duration": "3 yrs 1 mo",
+            "location": "Ho Chi Minh City, Vietnam",
+            "times": "Full-time"
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "Ho Chi Minh National College of Education",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Ho+Chi+Minh+National+College+of+Education",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2015",
+            "to_date": "2018",
+            "description": null,
+            "degree": "Bachelor's degree",
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": []
+}

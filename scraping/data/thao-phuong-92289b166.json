@@ -1,0 +1,83 @@
+{
+    "name": "Thao Phuong",
+    "linkedin_url": "https://www.linkedin.com/in/thao-phuong-92289b166",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "B&K Solution",
+            "website": "https://www.linkedin.com/company/73030422/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Feb 2022",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Talent Acquisition Specialist",
+            "duration": "11 mos",
+            "location": "Ho Chi Minh City, Vietnam",
+            "times": "Full-time"
+        },
+        {
+            "institution_name": "Reeracoen Vietnam",
+            "website": "https://www.linkedin.com/company/13295235/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Jun 2018",
+            "to_date": "Present",
+            "description": null,
+            "position_title": "Career Advisor",
+            "duration": "4 yrs 7 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "Foreign Trade University",
+            "website": "https://www.linkedin.com/company/15249511/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2013",
+            "to_date": "2017",
+            "description": null,
+            "degree": null,
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Human Resources (HR)",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Business Administration",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Teamwork",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "English",
+            "tag": "LANGUAGES"
+        },
+        {
+            "name": "Japanese",
+            "tag": "LANGUAGES"
+        }
+    ]
+}

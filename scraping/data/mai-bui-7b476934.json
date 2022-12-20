@@ -1,0 +1,62 @@
+{
+    "name": "Mai Bui",
+    "linkedin_url": "https://www.linkedin.com/in/mai-bui-7b476934",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "GOLD PARTNERS CONSULTING COMPANY LIMITED",
+            "website": "https://www.linkedin.com/company/2380647/",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2010",
+            "to_date": "2012",
+            "description": null,
+            "position_title": "General Director",
+            "duration": "2 yrs",
+            "location": "Ho Chi Minh",
+            "times": null
+        },
+        {
+            "institution_name": "Executive Search and Recruitment Firm",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Executive+Search+and+Recruitment+Firm",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2007",
+            "to_date": "2010",
+            "description": null,
+            "position_title": "ES Senior Manager",
+            "duration": "3 yrs",
+            "location": "Nhan Viet Management Group",
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "University of Economics",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=University+of+Economics",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": null,
+            "to_date": null,
+            "description": null,
+            "degree": "BA",
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": []
+}

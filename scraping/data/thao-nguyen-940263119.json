@@ -1,0 +1,103 @@
+{
+    "name": "thao nguyen",
+    "linkedin_url": "https://www.linkedin.com/in/thao-nguyen-940263119",
+    "about": [],
+    "experiences": [
+        {
+            "institution_name": "DongA Bank",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=DongA+Bank",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "Aug 2005",
+            "to_date": "Present",
+            "description": "recruitment and Human resource development\nrecruitment and Human resource development",
+            "position_title": "recruitment officer",
+            "duration": "17 yrs 5 mos",
+            "location": null,
+            "times": null
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "HCM City University of Social Sciences & Humanites",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=HCM+City+University+of+Social+Sciences+%26+Humanites",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2005",
+            "to_date": null,
+            "description": null,
+            "degree": "Bachelor’s Degree",
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        },
+        {
+            "institution_name": "Ho Chi Minh City Opne University",
+            "website": "https://www.linkedin.com/search/results/all/?keywords=Ho+Chi+Minh+City+Opne+University",
+            "industry": null,
+            "type": null,
+            "headquarters": null,
+            "company_size": null,
+            "founded": null,
+            "from_date": "2004",
+            "to_date": null,
+            "description": null,
+            "degree": "Bachelor’s Degree",
+            "field_of_study": null,
+            "grade": null,
+            "activities": null
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "also_viewed_urls": [],
+    "contacts": [],
+    "skills": [
+        {
+            "name": "Training",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Human Resources",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Change Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Performance Management",
+            "tag": "INDUSTRY-KNOWLEDGE"
+        },
+        {
+            "name": "Microsoft Office",
+            "tag": "TOOLS-&-TECHNOLOGIES"
+        },
+        {
+            "name": "Management",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Teamwork",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Team Leadership",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Team Management",
+            "tag": "INTERPERSONAL-SKILLS"
+        },
+        {
+            "name": "Negotiation",
+            "tag": "INTERPERSONAL-SKILLS"
+        }
+    ]
+}
