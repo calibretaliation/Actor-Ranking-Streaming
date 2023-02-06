@@ -1,2 +1,3 @@
 tqdm>=4.41.0
 jsonpickle>=3.0.1
+selenium>=4.7.2 

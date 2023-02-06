@@ -4,6 +4,10 @@ import time
 import sys
 from watchdog.observers import Observer
 from watchdog.events import PatternMatchingEventHandler
+from pyarrow import fs
+
+
+hdfs = fs.HadoopFileSystem(host, port, user="nhat-node")
 
 def hdfs_put(local_file_path, hdfs_file_path):
     command = config.HDFS_PUT_COMMAND
@@ -36,6 +40,7 @@ class Event(PatternMatchingEventHandler):
         hdfs_delete(hdfs_file_path = hdfs_file_path)
         print(f"{event.src_path} deleted")       
         
+#Init an observer before calling this function        
 def watch_folder(observer, path = "/home/hadoop/"):
     event_handler = Event(patterns=["*.json"])
     observer.schedule(event_handler, path, recursive=True)
