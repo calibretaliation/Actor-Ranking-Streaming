@@ -9,7 +9,7 @@ type Props = {
 
 const Row: React.FC<Props> = ({ node, focusingNode, setFocusingNode }) => {
     return (
-        <div className={`flex flex-row justify-between hover:bg-[rgba(155,155,155,0.1)] cursor-pointer p-1 text-sm rounded w-full ${focusingNode === node.id && "bg-[rgba(155,155,155,0.1)]"}`}
+        <div className={`flex flex-row justify-between hover:bg-[rgba(155,155,155,0.1)] cursor-pointer py-1.5 px-3 text-sm rounded w-full ${focusingNode === node.id && "bg-[rgba(155,155,155,0.3)] hover:bg-[rgba(155,155,155,0.3)]"}`}
             onClick={(e) => { setFocusingNode(node.id); e.stopPropagation(); }}
         >
             <div className='flex flex-row'>
