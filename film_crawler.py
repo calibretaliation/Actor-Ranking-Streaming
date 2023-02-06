@@ -23,6 +23,7 @@ def get_data(link, save_as=None):
 key = '8c0c786aba77a3ff00ebb47ca9fa3b8f'
 TEMP_WEIGHTS_DIR = '/user/hadoop/temp_weight'
 WEIGHTS_DIR = '/user/hadoop/weight'
+added_actor = []
 
 
 def get_film_ids(year_start=2019, year_end=2023):
@@ -65,6 +66,21 @@ def get_film_ids(year_start=2019, year_end=2023):
 #         new_weight.to_csv(writer)
 
 
+def get_actors(actors):
+    data = pd.DataFrame()
+    for actor_id in actors:
+        try:
+            actor = get_data(
+                f"https://api.themoviedb.org/3/person/{actor_id}?api_key={key}")
+        except:
+            print(f"Error of getting actor id {actor_id}.")
+            continue
+
+        data = pd.concat(
+            [data, pd.Series(actor).to_frame().T], ignore_index=True)
+    return data
+
+
 def film_data(film_ids):
     films = pd.DataFrame()
     for id in tqdm(film_ids[0]):
@@ -91,16 +107,23 @@ def film_data(film_ids):
         for (a, b) in itertools.combinations(main_actors, 2):
             temp.loc[len(temp)] = sorted(
                 [a['id'], b['id']]) + [film['popularity']]
-        print("writing to hdfs..")
+        print("Writing to hdfs..")
 
         client = InsecureClient('http://master-node:9870', user='hdfs')
         # with client.write(f'/user/hadoop/actor_pair.csv', encoding='utf-8') as writer:
         #     temp.to_csv(writer)
         # films = pd.concat(
         #     [films, pd.Series(film).to_frame().T], ignore_index=True)
+        select_actor = [a['id']
+                        for a in main_actors if a['id'] not in added_actors]
+        if len(select_actor) > 0:
+            actors = get_actors(select_actor)
+            added_actors.extend(select_actor)
+            #  APPEND TO CURRENT ACTOR DATA
+            with client.write("/user/hadoop/actors.csv",  encoding='utf-8', append=True) as writer:
+                actors.to_csv(writer, header=False, index=False)
 
-        # #  APPEND TO CURRENT MOVIE DATA
-        # with client.write("/user/hadoop/movie.csv",  encoding='utf-8', append=True) as writer:
+        # with client.write("/user/hadoop/actors.csv",  encoding='utf-8', append=True) as writer:
         #     films.to_csv(writer, header=False, index=False)
 
         # WRITE NEW WEIGHT OF CURRENT MOVIE TO HDFS, NEW CSV FILE
