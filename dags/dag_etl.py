@@ -242,8 +242,8 @@ def dag_pagerank():
     #     pass
     
     ### TASK 2 ###
-    @task(task_id = 'page_rank', requirements=["pyspark", "hdfs"], system_site_packages=False)
-    def page_rank(a5):
+    @task.virtualenv(task_id = 'page_rank', requirements=["pyspark", "hdfs"], system_site_packages=False)
+    def page_rank(a2):
         from pyspark import SparkContext
         from pyspark.streaming import StreamingContext
         from hdfs import InsecureClient  
@@ -383,14 +383,11 @@ def dag_pagerank():
           
     ### TASK 3 ###
     @task(task_id = 'visualize_to_web')
-    def visualize_to_web(a6):
+    def visualize_to_web(a3):
         pass
     
     task1 = films_crawl()
-    task2 = hdfs_put(task1)
-    task3 = send_weight(task2)
-    task4 = LAP(task3)
-    task5 = page_rank(task4)
-    visualize_to_web(task5)
+    task2 = page_rank(task1)
+    visualize_to_web(task2)
     
 dag = dag_pagerank()
