@@ -4,8 +4,21 @@ import itertools
 import pandas as pd
 from tqdm import tqdm
 import numpy as np
-import ast
 from hdfs import InsecureClient
+import os
+from queue import Queue
+from threading import Thread
+
+
+key = '8c0c786aba77a3ff00ebb47ca9fa3b8f'
+TEMP_WEIGHTS_DIR = '/user/hadoop/temp_weight'
+WEIGHTS_DIR = '/user/hadoop/weight'
+added_actors = []
+client = InsecureClient('http://master-node:9870', user='hdfs')
+added_film_ids = []
+global COUNT
+COUNT = 0
+pending_film_ids = Queue()
 
 
 def get_data(link, save_as=None):
@@ -20,24 +33,19 @@ def get_data(link, save_as=None):
     return json.loads(data)
 
 
-key = '8c0c786aba77a3ff00ebb47ca9fa3b8f'
-TEMP_WEIGHTS_DIR = '/user/hadoop/temp_weight'
-WEIGHTS_DIR = '/user/hadoop/weight'
-added_actor = []
-
-
-def get_film_ids(year_start=2019, year_end=2023):
+def get_film_ids(year):
     film_ids = []
     print("getting film id...")
     for page in tqdm(range(1, 501)):
-        for year in range(year_start, year_end):
-            for order in ('vote_average.desc', 'vote_count.desc', 'popularity.desc'):
-                films = get_data(
-                    f"https://api.themoviedb.org/3/discover/movie?page={page}&sort_by={order}&year={year}&api_key={key}")
-                film_ids.extend([f['id'] for f in films['results']])
-    film_ids = list(set(film_ids))
+        for order in ('vote_average.desc', 'vote_count.desc', 'popularity.desc'):
+            films = get_data(
+                f"https://api.themoviedb.org/3/discover/movie?page={page}&sort_by={order}&year={year}&api_key={key}")
+            for f in films['results']:
+                if f['id'] not in added_film_ids:
+                    added_film_ids.append(f['id'])
+                    pending_film_ids.put(f['id'])
 
-    print("Number of films: ", len(film_ids))
+    print("Number of films: ", len(added_film_ids))
     return film_ids
 # def update_weight(temp, films):
 #     client = InsecureClient('http://master-node:9870', user='hdfs')
@@ -81,19 +89,25 @@ def get_actors(actors):
     return data
 
 
-def film_data(film_ids):
+def film_data():
+    global COUNT
     films = pd.DataFrame()
-    for id in tqdm(film_ids[0]):
+    while True:
+        if pending_film_ids.empty():
+            continue
+        
+        id = pending_film_ids.get()
         temp = pd.DataFrame(columns=['actor1', 'actor2', 'weight'])
         print(f"getting film data: {id}")
         credit_link = f"https://api.themoviedb.org/3/movie/{id}/credits?api_key={key}"
         try:
             credit = get_data(credit_link)
+            print('[INFO] Process 1')
         except:
             print(f"Error of getting movie id {id}.")
             continue
         actors = [a for a in credit['cast']
-                  if a['known_for_department'] == "Acting"]
+                    if a['known_for_department'] == "Acting"]
         to_num = min(len(actors), max(5, round(len(actors)*0.1)))
         main_actors = actors[:to_num]
         if len(main_actors) < 2:
@@ -106,10 +120,10 @@ def film_data(film_ids):
             continue
         for (a, b) in itertools.combinations(main_actors, 2):
             temp.loc[len(temp)] = sorted(
-                [a['id'], b['id']]) + [film['popularity']]
+                [a['id'], b['id']]) + [max(film['popularity'],1e-5)]
         print("Writing to hdfs..")
 
-        client = InsecureClient('http://master-node:9870', user='hdfs')
+        
         # with client.write(f'/user/hadoop/actor_pair.csv', encoding='utf-8') as writer:
         #     temp.to_csv(writer)
         # films = pd.concat(
@@ -120,8 +134,12 @@ def film_data(film_ids):
             actors = get_actors(select_actor)
             added_actors.extend(select_actor)
             #  APPEND TO CURRENT ACTOR DATA
-            with client.write("/user/hadoop/actors.csv",  encoding='utf-8', append=True) as writer:
-                actors.to_csv(writer, header=False, index=False)
+            try:
+                with client.write("/user/hadoop/actors.csv",  encoding='utf-8', append=True) as writer:
+                    actors.to_csv(writer, header=False, index=False)
+            except:
+                with client.write("/user/hadoop/actors.csv",  encoding='utf-8') as writer:
+                    actors.to_csv(writer, index=False)
 
         # with client.write("/user/hadoop/actors.csv",  encoding='utf-8', append=True) as writer:
         #     films.to_csv(writer, header=False, index=False)
@@ -133,18 +151,26 @@ def film_data(film_ids):
         # weight_temp = temp[['actor1', 'actor2', 'weight']].groupby(
         #     ['actor1', 'actor2']).mean().reset_index()
 
-        with client.write(f"{TEMP_WEIGHTS_DIR}/weight_{id}.csv",  encoding='utf-8') as writer:
-            temp.to_csv(writer, index=False)
-        os.system(
-            f'hadoop fs -mv {TEMP_WEIGHTS_DIR}/f_{no}.csv {WEIGHTS_DIR}/')
+        with client.write(f"{TEMP_WEIGHTS_DIR}/weight_{COUNT}.csv",  encoding='utf-8', overwrite=True) as writer:
+            temp.to_csv(writer, header=False, index=False)
+        os.system(f'hadoop fs -mv {TEMP_WEIGHTS_DIR}/weight_{COUNT}.csv {WEIGHTS_DIR}/')
+        COUNT += 1
 
     return films
 
 
-if __name__ == '__main__':
-    year_start = 2017
+def main():
+    year_start = 2022
     while year_start > 2015:
-        film_ids = []
-        film_ids.append(get_film_ids(year_start, 2023))
-        films = film_data(film_ids)
+        threads = [
+            Thread(target=get_film_ids, args=(year_start,)),
+            Thread(target=film_data)
+        ]
+        for thread in threads:
+            thread.start()
+        for thread in threads:
+            thread.join()
         year_start = year_start - 1
+
+if __name__ == '__main__':
+    main()

@@ -2,3 +2,5 @@ tqdm
 jsonpickle
 selenium
 hdfs
+pygrank
+scikit-learn
